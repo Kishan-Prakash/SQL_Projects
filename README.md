@@ -1,3 +1,3 @@
 # SQL_Projects
 
-just trying to learn gitHub
+WHOLE FOOD MARKET
