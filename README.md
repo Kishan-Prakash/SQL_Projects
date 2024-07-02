@@ -12,6 +12,8 @@ All the data had been loaded into MySQL, and the analyst was required to write S
 
 The data set provided to them had the following tables.
 
+Credit for project idea and datasets: CodingNinjas Data Analytics Course
+
 
 
 
